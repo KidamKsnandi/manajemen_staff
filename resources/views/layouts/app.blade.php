@@ -4,8 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   @vite('resources/css/app.css')
+  <title>Kelompok 2 - Manajemen Staff</title>
 </head>
-<body>
+<body >
     @include('layouts.partials.navbar')
     <div class="container mx-auto h-screen">
         @yield('content')

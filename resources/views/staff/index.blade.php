@@ -7,7 +7,7 @@
         <br>
         <div class="mb-3">
             <a href="{{ route('staff.create') }}"
-                class="border px-2 py-1 bg-blue-500 hover:bg-blue-700 text-white rounded-md">Create Data</a>
+                class="border px-2 py-1 bg-blue-500 hover:bg-blue-700 text-white rounded-md">Tambah Data</a>
         </div>
         <div class="">
             <table class="w-full">
